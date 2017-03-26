@@ -6,6 +6,8 @@ int main()
 {
     int i = 0;
     int x = 2;
-    cout << "Czy dzia³a Kruksu????!" << endl;
+
+    cout << "Czy dziaÂ³a Kruksu????!" << endl;
+
     return 0;
 }
